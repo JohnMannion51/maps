@@ -1,0 +1,8 @@
+{
+  "name": "ionic-geolocation-tracking",
+  "app_id": "cde0c329",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
